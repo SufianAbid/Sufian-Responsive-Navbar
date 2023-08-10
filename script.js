@@ -2,7 +2,7 @@ window.onscroll = function () {
   scrollFunction();
 };
 function scrollFunction() {
-  document.getElementById("navbar").style.background = "#fff";
+  document.getElementById("navbar").style.background = "#61677A";
 }
 
 const navToggle = document.querySelector(".nav-toggle");
